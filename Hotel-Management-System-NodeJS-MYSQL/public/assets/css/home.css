@@ -1,0 +1,16 @@
+body{
+    background-color: #212529; 
+    color: aliceblue;
+}
+.customer-caption h2{
+    color: antiquewhite;
+
+}
+.customer-caption p{
+    color: rgb(7, 7, 7);
+
+}
+.main_header{
+    background-color: #212529;
+    color:antiquewhite;
+}
